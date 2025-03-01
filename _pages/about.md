@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "This is my personal Profile "
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-## About Me  
+---
 
 I am a third-year **Bioinformatics** student at **Southern Medical University**, proficient in **C, Python, and R**, with expertise in **computational data analysis and visualization**. My research interests include **high-throughput sequencing analysis, biostatistics, machine learning, and genomics**. Currently, I am a member of the **Oncology Research Group at Zhujiang Hospital**, where I focus on bioinformatics-driven cancer research.  
 
