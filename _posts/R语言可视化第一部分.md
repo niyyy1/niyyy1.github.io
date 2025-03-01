@@ -1,7 +1,7 @@
 ---
 title: 'R语言可视化'
 date: 2023-11-12
-permalink: /posts/2022/11/R语言可视化/
+permalink: /posts/2023/11/R语言可视化/
 tags:
   - R
   - 可视化
