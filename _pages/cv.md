@@ -9,56 +9,44 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# **Yulu Nie (聂雨露)**  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## **Personal Information**  
+- **Age**: 22  
+- **Gender**: Female  
+- **Undergraduate Institution**: Southern Medical University  
+- **Major**: Bioinformatics  
+- **GPA**: 3.58/4.0  
+- **Rank**: 3/42  
+- **Email**: niyyy1@i.smu.edu.cn  
+- **IELTS**: 6.5  
+- **CET-6**: 572  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## **Education**  
+- **B.S. in Bioinformatics, Southern Medical University (Currently Enrolled), 2022**  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### **Core Courses**  
+- **Programming**: C, Python, R  
+- **High-throughput sequencing analysis**  
+- **Computational data analysis and visualization**  
+- **Biostatistics**  
+- **Machine learning**  
+- **Genomics and Proteomics**  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## **Research Experience**  
+
+### **Shiny Web Application for Intratumoral Microbiome Analysis**  
+Developed an interactive platform for analyzing the role of microbiomes in the tumor microenvironment.  
+
+### **Review on Gene Perturbation and Immunotherapy**  
+Conducted a comprehensive literature review on gene perturbation and its implications for cancer immunotherapy.  
+
+### **Shiny Web Platform for Organoid Research**  
+Designed and implemented a web-based tool to support organoid-based studies in cancer research.  
+
+## **Awards & Honors**  
+- **Provincial Third Prize, National Undergraduate Mathematical Modeling Competition**  
+- **University Scholarship, Southern Medical University (2023, 2024)**  
+- **Outstanding Student, Southern Medical University**  
+- **Outstanding Student Leader, Southern Medical University**  
+
