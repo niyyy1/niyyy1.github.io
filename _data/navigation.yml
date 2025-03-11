@@ -8,8 +8,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Study Journal"
-    url: /year-archive/
+  - #title: "Study Journal"
+    #url: /year-archive/
 
   - #title: "Publications"
     #url: /publications/
