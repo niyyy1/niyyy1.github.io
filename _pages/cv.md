@@ -14,8 +14,8 @@ redirect_from:
 - **Gender**: Female  
 - **Undergraduate Institution**: Southern Medical University  
 - **Major**: Bioinformatics  
-- **GPA**: 3.58/4.0  
-- **Rank**: 3/42  
+- **GPA**: 3.57/4.0  
+- **Rank**: 3/43  
 - **Email**: niyyy1@i.smu.edu.cn  
 - **IELTS**: 6.5  
 - **CET-6**: 572  
